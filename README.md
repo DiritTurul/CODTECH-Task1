@@ -1,7 +1,7 @@
 # Password Strength Checker
 ===========================
 
-**Author:** Diprit Turul 
+**Name:** Diprit Turul 
 
 **Company:** CODTECH IT SOLUTIONS PVT.LTD
 
